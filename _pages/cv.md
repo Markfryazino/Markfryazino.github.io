@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My CV will be here
+<embed src="/assets/CV.pdf" type="application/pdf" width="100%" height="600px" />

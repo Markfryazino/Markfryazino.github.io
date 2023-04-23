@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mark Rofin"
   avatar           : "profile.jpg"
-  bio              : "Natural Language Processing Engineer at Yandex @ Computer Science student at Higher School of Economics"
+  bio              : "Natural Language Processing Engineer"
   location         : "Belgrade, Serbia"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=AX0GLYIAAAAJ&hl=en"
-  email            : "rofinmp[at]gmail[dot]com"
+  email            : "rofinmp@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "mark-rofin"
   orcid            :
   pinterest        :
   soundcloud       :
