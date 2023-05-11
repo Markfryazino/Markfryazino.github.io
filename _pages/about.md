@@ -4,12 +4,12 @@ author_profile: true
 title: "Home"
 redirect_from: 
   - /about/
-layout: default
+# layout: default
 ---
 
 <div class="about-me">
   <h1>About Me</h1>
-  <p>Welcome to my personal website! I'm a researcher in the field of machine learning and natural language processing. My work involves exploring and developing new techniques for understanding and generating human language.</p>
+  <p>Hi people.</p>
 </div>
 
 <div class="news-section">
