@@ -7,3 +7,4 @@ venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2211.12092.pdf'
 citation: 'Rofin, Mark, Nikita Balagansky, and Daniil Gavrilov. 2022. Linear Interpolation In Parameter Space is Good Enough for Fine-Tuned Language Models. arXiv preprint arXiv:2211.12092'
 authors: 'Mark Rofin, Nikita Balagansky, and Daniil Gavrilov.'
+---

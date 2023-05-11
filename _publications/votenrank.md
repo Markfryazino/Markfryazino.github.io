@@ -7,3 +7,4 @@ venue: 'Proceedings of the 17th Conference of the European Chapter of the Associ
 paperurl: 'https://aclanthology.org/2023.eacl-main.48.pdf'
 citation: 'Mark Rofin, Vladislav Mikhailov, Mikhail Florinsky, Andrey Kravchenko, Tatiana Shavrina, Elena Tutubalina, Daniel Karabekyan, and Ekaterina Artemova. 2023. Vote’n’Rank: Revision of Benchmarking with Social Choice Theory. In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 670–686, Dubrovnik, Croatia. Association for Computational Linguistics.'
 authors: 'Mark Rofin, Vladislav Mikhailov, Mikhail Florinsky, Andrey Kravchenko, Tatiana Shavrina, Elena Tutubalina, Daniel Karabekyan, and Ekaterina Artemova.'
+---
