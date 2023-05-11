@@ -1,10 +1,8 @@
 ---
 permalink: /
 author_profile: true
-title: "Home"
 redirect_from: 
   - /about/
-# layout: default
 ---
 
 <div class="about-me">
@@ -12,13 +10,13 @@ redirect_from:
   <p>Hi people.</p>
 </div>
 
+<hr>
+
 <div class="news-section">
   <h1>News</h1>
   {% for post in site.news reversed %}
     <div class="news-item">
-      <h2>{{ post.date | date: "%B %Y" }}</h2>
-      <p>{{ post.content }}</p>
+      <p><b>{{ post.date | date: "%B %Y" }} &mdash; </b> {{ post.content }}</p>
     </div>
-    <hr>
   {% endfor %}
 </div>
