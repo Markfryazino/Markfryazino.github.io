@@ -11,6 +11,7 @@ You can also find my papers on [my Google Scholar profile](https://scholar.googl
 
 {% for post in site.publications reversed %}
   <h2>{{ post.title }}</h2>
+  <p><em>{{ post.authors }}</em></p>
   <p>{{ post.excerpt }}</p>
   <a href="{{ post.paperurl }}">Download paper here</a>
   <hr>
