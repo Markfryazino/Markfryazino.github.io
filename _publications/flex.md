@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Linear Interpolation In Parameter Space is Good Enough for Fine-Tuned Language Models"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/linear_interpolation
+excerpt: 'The simplest way to obtain continuous interpolation between two points in high dimensional space is to draw a line between them. While previous works focused on the general connectivity between model parameters, we explored linear interpolation for parameters of pre-trained models after fine-tuning. Surprisingly, we could perform linear interpolation without a performance drop in intermediate points for fine-tuned models. For controllable text generation, such interpolation could be seen as moving a model towards or against the desired text attribute (e.g., positive sentiment), which could be used as grounds for further methods for controllable text generation without inference speed overhead.'
+date: 2022-11-22
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/pdf/2211.12092.pdf'
+citation: 'Rofin, Mark, Nikita Balagansky, and Daniil Gavrilov. 2022. Linear Interpolation In Parameter Space is Good Enough for Fine-Tuned Language Models. arXiv preprint arXiv:2211.12092'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+The simplest way to obtain continuous interpolation between two points in high dimensional space is to draw a line between them. While previous works focused on the general connectivity between model parameters, we explored linear interpolation for parameters of pre-trained models after fine-tuning. Surprisingly, we could perform linear interpolation without a performance drop in intermediate points for fine-tuned models. For controllable text generation, such interpolation could be seen as moving a model towards or against the desired text attribute (e.g., positive sentiment), which could be used as grounds for further methods for controllable text generation without inference speed overhead.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://arxiv.org/pdf/2211.12092.pdf)
