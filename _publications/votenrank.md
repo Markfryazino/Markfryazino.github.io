@@ -1,7 +1,6 @@
 ---
 title: "Vote’n’Rank: Revision of Benchmarking with Social Choice Theory"
 collection: publications
-permalink: /publication/votenrank
 excerpt: 'The development of state-of-the-art systems in different applied areas of machine learning (ML) is driven by benchmarks, which have shaped the paradigm of evaluating generalisation capabilities from multiple perspectives. Although the paradigm is shifting towards more fine-grained evaluation across diverse tasks, the delicate question of how to aggregate the performances has received particular interest in the community. In general, benchmarks follow the unspoken utilitarian principles, where the systems are ranked based on their mean average score over task-specific metrics. Such aggregation procedure has been viewed as a sub-optimal evaluation protocol, which may have created the illusion of progress. This paper proposes Vote’n’Rank, a framework for ranking systems in multi-task benchmarks under the principles of the social choice theory. We demonstrate that our approach can be efficiently utilised to draw new insights on benchmarking in several ML sub-fields and identify the best-performing systems in research and development case studies. The Vote’n’Rank’s procedures are more robust than the mean average while being able to handle missing performance scores and determine conditions under which the system becomes the winner.'
 date: 2023-05-02
 venue: 'Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics'
