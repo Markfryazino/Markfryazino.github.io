@@ -7,7 +7,9 @@ redirect_from:
 
 <div class="about-me">
   <h1>About Me</h1>
-  <p>Hi people.</p>
+  <p>Hi!</p>
+  <p>My name is Mark. I am a Natural Language Processing Engineer interested in Language Models and other sci-fi Deep Learning inventions.</p>
+  <p>At the moment I am between my Bachelor degree from Higher School of Economics and Masters on Computational Linguistics in Saarland University. I also work at the LLM team at Yandex, where we build giant models used in products of Yandex.</p>
 </div>
 
 <hr>
