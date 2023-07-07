@@ -8,8 +8,8 @@ redirect_from:
 <div class="about-me">
   <h1>About Me</h1>
   <p>Hi!</p>
-  <p>My name is Mark. I am a Natural Language Processing Engineer interested in Language Models and other sci-fi Deep Learning inventions.</p>
-  <p>At the moment I am between my Bachelor degree from Higher School of Economics and Masters on Computational Linguistics in Saarland University. I also work at the LLM team at Yandex, where we build giant models used in products of Yandex.</p>
+  <p>I'm Mark, a Natural Language Processing Engineer with a keen interest in Language Models and other sci-fi advancements in the realm of Deep Learning.</p>
+  <p>Currently, I am transitioning from completing my Bachelor's degree in Computer Science at Higher School of Economics to pursuing a Master's degree in Computational Linguistics at Saarland University. In conjunction with my studies, I am a part of the LLM team at Yandex, contributing to the development and integration of models that fuel an array of the company's products.</p>
 </div>
 
 <hr>
