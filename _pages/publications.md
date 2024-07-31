@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my papers on [my Google Scholar profile](https://scholar.google.com/citations?user=AX0GLYIAAAAJ&hl=en).
+You can also find my papers on [my Semantic Scholar profile](https://www.semanticscholar.org/author/Mark-Rofin/2187576116).
 
 {% include base_path %}
 
