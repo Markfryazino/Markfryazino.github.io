@@ -9,8 +9,8 @@ redirect_from:
   <h1>About Me</h1>
   <p>Hi!</p>
   <p>I’m Mark, a Master’s student in Language Science and Technology at Saarland University.</p>
-  <p>I work as a research assistant at <a href="https://lacoco-lab.github.io/home/">Language, Computation and Cognition Lab</a>. Earlier, I served as a Natural Language Processing engineer at Yandex, developing state-of-the-art LLMs for the Russian language. I also interned at Tinkoff AI and Computational Pragmatics Lab at HSE University.</p>
-  <p>Given the early stage of my career, my research interests are broad. They are centered around understanding the internal mechanics of state-of-the-art neural networks, both artificial and biological. Is there a theoretical model of Transformer-learnable functions? How can we use Deep Learning to draw inferences about the human brain? What interpretable processes happen in LLMs when they answer a query? Those are some of the topics that I am curious about.</p>
+  <p>I work as a research assistant at <a href="https://lacoco-lab.github.io/home/">Language, Computation and Cognition Lab</a>. We use methods ranging from Formal Language Theory to Mechanistic Interpretability to look into the black boxes of modern LLMs. </p>
+  <p>My primary research interest is building the high-level intuition of LLMs, as well as applying that intuition to get actionable insights. I believe that by combining theoretical and empirical methods, we can bit-by-bit construct a Theory of Everything for LLMs, uncovering the bounds of learnability, role of different layers, dynamics of information flow, and other phenomena. As training new models becomes increasingly expensive, this research will only grow in significance, potentially saving billions in compute costs. </p>
 </div>
 
 <hr>
