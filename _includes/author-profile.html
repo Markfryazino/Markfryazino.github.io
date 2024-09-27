@@ -105,8 +105,9 @@
       {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Semantic Scholar</a></li>
-        {% if author.googlescholar_real %}
-        <li><a href="{{ author.googlescholar_real }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      {% endif %}
+      {% if author.googlescholar_real %}
+        <li><a href="{{ author.googlescholarreal }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
