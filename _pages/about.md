@@ -10,7 +10,8 @@ redirect_from:
   <p>Hi!</p>
   <p>I’m Mark, a Master’s student in Language Science and Technology at Saarland University.</p>
   <p>I work as a research assistant at <a href="https://lacoco-lab.github.io/home/">Language, Computation and Cognition Lab</a>. We use methods ranging from Formal Language Theory to Mechanistic Interpretability to look into the black boxes of modern LLMs. </p>
-  <p>My primary research interest is building the high-level intuition of LLMs, as well as applying that intuition to get actionable insights. I believe that by combining theoretical and empirical methods, we can bit-by-bit construct a Theory of Everything for LLMs, uncovering the bounds of learnability, role of different layers, dynamics of information flow, and other phenomena. As training new models becomes increasingly expensive, this research will only grow in significance, potentially saving billions in compute costs. </p>
+  <p>My primary research interest is understanding the principles governing the behavior and performance limits of Deep Learning models, especially LLMs. What capabilities can they learn from data, and how does that happen? What inductive biases are introduced by specific architectural modifications? I believe that by combining theoretical and empirical methods, we can answer these questions, which is both interesting by itself and useful to improve our models.
+   </p>
 </div>
 
 <hr>
