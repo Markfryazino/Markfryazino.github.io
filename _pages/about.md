@@ -13,7 +13,7 @@ redirect_from:
   <p>Speaking more concretely, I am currently interested in expressivity <i>(what can models learn in principle?)</i>, interpretability <i>(what do they learn in practice?)</i>, and training dynamics <i>(how and why do they learn that?)</i>. Check out our recent work in these areas: <a href="https://arxiv.org/abs/2502.02393">here</a> we studied the limits of Chain-of-Thought expressivity, and <a href="https://openreview.net/pdf?id=lniwJxd2cT">here</a> we analyzed the mechanisms of feature development in LLMs.
   </p>
   <hr>
-  <p>When I'm not staring at my Weights & Biases dashboards, I enjoy a range of (rather stereotypical) hobbies, such as reading books, traveling by train, bike, and foot, or playing board games. Recently I've also gotten into trail running, and I'm very excited about challenging myself on the alpine trails of Switzerland.
+  <p>When I'm not staring at my Weights & Biases dashboards, I enjoy a range of (rather stereotypical) hobbies, such as reading books, traveling by train, bike, and on foot, or playing board games. Recently I've also gotten into trail running, and I'm very excited about challenging myself on the alpine trails of Switzerland.
   </p>
   <p>I'm always happy to meet new friends and collaborators! Feel free to drop me an email or message me on X about anything, and if you're in Lausanne, let's grab coffee.
   </p>
