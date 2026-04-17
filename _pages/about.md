@@ -5,6 +5,10 @@ redirect_from:
   - /about/
 ---
 
+<div style="text-align: center; margin-bottom: 0.8em;">
+  <span style="font-weight: bold; font-size: 1.1em; border: 2px solid #333; border-radius: 6px; padding: 0.3em 0.7em; display: inline-block;">✨ I am at ICLR, let's chat! ✨</span>
+</div>
+
 <div class="about-me">
   <h1>About Me</h1>
   <p>Hi, I'm Mark! 👋</p>
